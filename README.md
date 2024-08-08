@@ -1,2 +1,2 @@
 # CuesTrack
-代码会在文章录用后公开
+The code will be made public after the article is accepted
